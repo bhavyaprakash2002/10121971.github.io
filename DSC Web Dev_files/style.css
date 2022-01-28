@@ -1,0 +1,116 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#first{
+    background-image: url('https://th.bing.com/th/id/OIP.9i-dRc9RACWeYrZ2YHsNdwHaHa?pid=ImgDet&rs=1');
+   
+    
+    height: 150px;
+}
+    .i{
+        color: rgb(230, 119, 119);
+        font-size: 30px;
+        position: relative;
+        top: 15px;
+    
+    }
+
+ul{
+   
+    font-size: 20px;
+    position: relative;
+    top: 75px;
+    left: 600px;
+    color: rgb(1, 63, 63);
+    display: inline;
+}
+
+body{
+    background-image: url('https://th.bing.com/th/id/R.c3640bbefa2d7e4a43b8b3b9963b490e?rik=QsIQT0qQT8U0rw&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f7%2f7%2f4%2f135893.jpg&ehk=cgdQMD9D0fKxmmpT273bfj4XPMk%2f3bum%2b6Nw9rV14LY%3d&risl=&pid=ImgRaw&r=0');
+   
+    background-repeat: no-repeat;
+}
+#eighth{
+    font-family:  'Times New Roman', Times, serif;
+    color: rgb(218, 19, 236);
+    font-size: 35px;
+    position: relative;
+    top: 110px;
+    left: 250px;
+}
+#fifth{
+    font-family:  'Times New Roman', Times, serif;
+    color: rgb(218, 19, 236);
+    font-size: 35px;
+    position: relative;
+    top: 110px;
+    left: 550px;
+}
+
+p{
+    font-family: cursive;
+    font-size: 20px;
+    color: cadetblue;
+    position: relative;
+    top: 165px;
+    left: 460px ;
+}
+.box1{
+    display: inline;
+    background-color: rgba(135, 10, 197, 0.425);
+    border: solid rgb(228, 59, 59);
+    border-radius: 7px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 30px;
+    color: blanchedalmond;
+    position: relative;
+    top: 270px;
+    left: 550px;
+}
+.box2{
+    display: inline;
+    background-color: rgba(135, 10, 197, 0.425);
+    border: solid rgb(228, 59, 59);
+    border-radius: 7px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 30px;
+    color: blanchedalmond;
+    position: relative;
+    top: 270px;
+    left: 650px;
+}
+li,#second,#sixth,#third,#fourth{
+    display: inline-block;
+}
+#second,#third,#sixth,#fourth,#seventh{
+    position: relative;
+    left: 00px;
+    border: solid blue;
+    border-radius: 10px; 
+    font-size: 25px;
+    background-color: rgba(120, 187, 150, 0.678);
+}
+#seventh{
+    position: relative;
+    left: -60px;
+    
+}
+#second{
+    position: relative;
+    left: -30px;
+}
+#third{
+    position: relative;
+    left: 30px;
+
+}
+#fourth{
+    position: relative;
+    left: 70px;
+}
+.box6{
+    width: 100px;
+    height: 100px;
+    
+}
